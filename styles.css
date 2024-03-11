@@ -11,12 +11,12 @@ body {
   background-color: #ebedee;
   color: #2a2b2c;
   font-family: Arial, sans-serif;
-  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .card {
   background-color: transparent;
-  width: 768px;
+  width: 100%;
+  max-width: 768px;
   border: none;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
