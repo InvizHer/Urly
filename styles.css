@@ -20,6 +20,8 @@
     .card {
       background-color: transparent;
       width: 768px;
+      border: 1px solid #00cc9e;
+      border-radius: 10px;
     }
     .form-control {
       cursor: auto;
